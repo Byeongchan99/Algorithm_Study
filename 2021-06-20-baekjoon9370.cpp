@@ -54,7 +54,7 @@ vector<int> dijkstra(int start) {
 		}
 	}
 	return dist;
-}
+} 
 
 int main() {
 	scanf("%d", &T);
